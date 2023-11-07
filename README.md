@@ -19,8 +19,15 @@
 <div>
  
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=FF0000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Lionel;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;enthusiast; fast learning" alt="Typing SVG" /></a>
   </div>
+  <p1>I am a full stack web developer with a strong focus on delivering quality and optimizing performance. My passion for technology drives me to continuously acquire new knowledge and go the extra mile to accomplish tasks effectively.
+
+I am actively seeking opportunities to join a dynamic software development team where I can leverage my skills and experience to create impactful products. Web development is a particular area of interest for me.
+
+I firmly believe that I can be a valuable addition to any team. I'm dedicated, a collaborative team player, and committed to exceeding expectations.
+
+Embarking on my journey as a full stack web developer fills me with enthusiasm. I am confident in my ability to make substantial contributions to the technology industry.</p1>
 </div>
 
 </details>
